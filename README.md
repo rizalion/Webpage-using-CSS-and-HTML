@@ -79,8 +79,4 @@ The project uses a custom `styles.css` file to handle all the visual aspects of 
 
 This project was created by Muhammad Huzaifa as part of a web development practice exercise. The purpose of the project is to demonstrate a foundational understanding of HTML and CSS.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
