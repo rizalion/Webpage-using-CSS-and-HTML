@@ -18,7 +18,6 @@ This project is a basic multi-page website built with HTML and CSS. It serves as
 - [CSS Styling](#css-styling)
 - [How to Run](#how-to-run)
 - [Credits](#credits)
-- [License](#license)
 
 ## Project Overview
 
@@ -64,15 +63,7 @@ The project uses a custom `styles.css` file to handle all the visual aspects of 
 
 ## How to Run
 
-1. **Clone the Repository:**
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```
-   cd your-repo-name
-   ```
-3. **Open `index.html` in a web browser**:
+**Open `index.html` in a web browser**:
    You can open the `index.html` file directly in your web browser to view the website.
 
 ## Credits
